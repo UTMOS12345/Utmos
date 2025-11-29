@@ -22,8 +22,9 @@ I am an automation engineer focused on building self-sustaining software systems
 ### 🚀 deployed_protocols (Projects)
 | Project | Function | Impact |
 | :--- | :--- | :--- |
-| **[Pexels Hunter](https://github.com/UTMOS12345/Pexels-Hunter-Bot)** | 📸 Automated Media Scraper | Fetches 500+ assets in <60s |
-| **[Nexus Bot](https://github.com/UTMOS12345/Convertify-Multi-Format-Engine-)** | 🤖 Multi-Tool Telegram AI | Integrates LLMs & Utility APIs |
+| **[Pexels Hunter](https://github.com/UTMOS12345/Pexels-Hunter-Bot)** | 📸 Automated Media Scraper | Fetches High-Res assets in <200ms |
+| **[Convertify](https://github.com/UTMOS12345/Convertify-Multi-Format-Engine-)** | 📂 Privacy-First File Engine | Secure PDF/DOCX conversion in RAM |
+| **[Gemini Nexus](https://github.com/UTMOS12345/Gemini-AI-Integrator)** | 🧠 Neural AI Interface | Google Gemini 1.5 Pro Integration |
 
 
 ---

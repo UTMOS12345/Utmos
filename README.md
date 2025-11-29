@@ -24,7 +24,7 @@ I am an automation engineer focused on building self-sustaining software systems
 | :--- | :--- | :--- |
 | **[Pexels Hunter](LINK_TO_REPO)** | 📸 Automated Media Scraper | Fetches 500+ assets in <60s |
 | **[Nexus Bot](LINK_TO_REPO)** | 🤖 Multi-Tool Telegram AI | Integrates LLMs & Utility APIs |
-| **[BizAuto Suite](LINK_TO_REPO)** | 💼 Business Logic Script | Automates form entry & data sorting |
+
 
 ---
 *End of Transmission.*

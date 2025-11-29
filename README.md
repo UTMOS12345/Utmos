@@ -23,7 +23,7 @@ I am an automation engineer focused on building self-sustaining software systems
 | Project | Function | Impact |
 | :--- | :--- | :--- |
 | **[Pexels Hunter](https://github.com/UTMOS12345/Pexels-Hunter-Bot)** | 📸 Automated Media Scraper | Fetches 500+ assets in <60s |
-| **[Nexus Bot]((https://github.com/UTMOS12345/Convertify-Multi-Format-Engine-))** | 🤖 Multi-Tool Telegram AI | Integrates LLMs & Utility APIs |
+| **[Nexus Bot](https://github.com/UTMOS12345/Convertify-Multi-Format-Engine-)** | 🤖 Multi-Tool Telegram AI | Integrates LLMs & Utility APIs |
 
 
 ---
